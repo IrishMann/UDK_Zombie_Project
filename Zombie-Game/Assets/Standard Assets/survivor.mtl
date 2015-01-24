@@ -1,0 +1,79 @@
+# Blender MTL File: 'survivor.blend'
+# Material Count: 7
+
+newmtl survivor:Eyebrow001:eyebrow001
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\eyebrow001.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\eyebrow001.png
+
+newmtl survivor:Eyelashes01:bodyMaterial
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\eyelashes01.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\eyelashes01.png
+
+newmtl survivor:HighPolyEyes:eyegreen
+Ns 990.196078
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\green_eye.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\green_eye.png
+
+newmtl survivor:Skin
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.027450 0.027450 0.027450
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\young_lightskinned_male_diffuse.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\young_lightskinned_male_diffuse.png
+
+newmtl survivor:Teeth_Shape02:teethMaterial
+Ns 800.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.854900 0.854900 0.854900
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\teeth.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\teeth.png
+
+newmtl survivor:mhair02:mhair02black
+Ns 960.784314
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.050980 0.050980 0.050980
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\male02_diffuse_black.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\male02_diffuse_black.png
+
+newmtl survivor:tongue01:tongue01Material
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.031370 0.031370 0.031370
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\tongue01_diffuse.png
+map_d C:\\Users\\Isaiah\\Documents\\makehuman\\v1\\exports\\textures\\tongue01_diffuse.png
